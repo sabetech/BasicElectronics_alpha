@@ -1,0 +1,35 @@
+{
+  "name": "Basic Electronic1",
+  "unit_number": 1,
+  "description": "some description of the unit is here",
+  "UnitContent": {
+    "title_info": {
+      "title": "Basic Electronics",
+      "unit_info": "DIODES",
+      "unit_desc": "Using Diodes to force Electric Current to flow in a particular direction",
+      "unit_graphic":  "file_location_img.png"
+    },
+    "info_dialog": [
+      "Begin Experience\nReady, Go",
+      "Lesson Preface 1/2\nBuilding upon what we learnt in lesson 1 & 2, in this lesson we will learn how to control the direction of current in circuits using Diodes",
+      "Lesson Preface 2/2\nAfter this lesson you’ll be able to:\n<Objective 1>\n<Objective 2>\n<Objective 3>",
+      "Circuit Building\nNow you will build a circuit that forces current to move in  one direction."
+    ],
+    "media_contents": [
+      {
+        "file_source": "http://file_name_is_here.mp4",
+        "media_description": "Desciption goes here",
+        "title": "Introduction to Diodes",
+        "type": "video2D"
+      },
+      {
+        "file_source": "http://file_name_is_here.mp4",
+        "media_description": "Desciption goes here",
+        "title": "Introduction to Diodes",
+        "type": "video2D"
+      }
+    ],
+    "tmp_questioning_opportunity": {
+    }
+  }
+}
